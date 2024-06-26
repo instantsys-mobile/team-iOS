@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "43CD03EF-1D91-4CB6-9F90-655F8880EC8B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C0F8C5A-C6AF-4A24-BBC7-12659CFE16C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM_with_API_calls/Constants/Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "API"
+            landmarkType = "13">
+            <Locations>
+               <Location
+                  uuid = "1C0F8C5A-C6AF-4A24-BBC7-12659CFE16C7 - d0514294d163bf4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for productURL"
+                  moduleName = "MVVM_with_API_calls"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvporwal/Desktop/MVVM_with_API_calls/MVVM_with_API_calls/Constants/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "1C0F8C5A-C6AF-4A24-BBC7-12659CFE16C7 - bfe3bfbb25f58ba7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM_with_API_calls.Constants.API.productURL.unsafeMutableAddressor : Swift.String"
+                  moduleName = "MVVM_with_API_calls"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dhruvporwal/Desktop/MVVM_with_API_calls/MVVM_with_API_calls/Constants/Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
